@@ -1,2 +1,2 @@
-# random-java-learning
+# random-learning-java
 Random Java learning code.
